@@ -1,5 +1,3 @@
-##learn koa2
-
 **Quick Start**
 ``` bash
 $ cd koa-test
