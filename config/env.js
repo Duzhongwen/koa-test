@@ -1,5 +1,5 @@
 /**
- * Created by lvchen on 17/11/28.
+ * Created by duzhongwen on 17/12/25.
  */
 const APP = {
     ROOT_PATH: __dirname,
@@ -9,7 +9,7 @@ const APP = {
 const INFO = {
     title: 'frontBlog.server',
     version: '1.0.0',
-    author: 'lvchen',
+    author: 'duzhongwen',
     with: ['Node.js', 'MongoDB', 'Koa2', 'redis']
 }
 
