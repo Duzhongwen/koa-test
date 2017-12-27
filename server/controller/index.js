@@ -1,9 +1,12 @@
 'use strict'
+const index = require('../model/index');
+
 class IndexController {
     static async getIndex(ctx) {
-        ctx.body = {
-            content: 'Hello Koa 2!'
-        }
+        
+        // ctx.body = {
+        //     content: 'Hello Koa 2!'
+        // }
     }
 
     static async getLogin(ctx) {
